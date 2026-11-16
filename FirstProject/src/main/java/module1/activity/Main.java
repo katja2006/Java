@@ -1,4 +1,4 @@
-package org.example;
+package module1.activity;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
