@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6518afd-e029-449d-8b70-8e59491894d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Module10/src/main/java/module10/activity/AbstractActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module10/src/main/java/module10/activity/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module10/src/main/java/module10/activity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module10/src/main/java/module10/activity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module10/src/main/java/module10/activity/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000000000005087" />
+      <entry key="S60" value="1.0000015925259085" />
+      <entry key="M2" value="1.002868023717693" />
+      <entry key="M5" value="1.4237810831187359" />
+      <entry key="M10" value="5.475848854693921" />
+      <entry key="M15" value="12.331398451757524" />
+      <entry key="M30" value="31.74994765874162" />
+      <entry key="H1" value="52.91441262865387" />
+      <entry key="H2" value="69.26003067714852" />
+      <entry key="H4" value="84.20764511274459" />
+      <entry key="D1" value="201.31300314101736" />
+      <entry key="W1" value="555.7353790131401" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="1.2293171246256212E-274" />
+      <entry key="M2" value="1.5669692980120845E-137" />
+      <entry key="M5" value="2.8755877565770927E-55" />
+      <entry key="M10" value="7.789418134608834E-28" />
+      <entry key="M15" value="1.1729283515002467E-18" />
+      <entry key="M30" value="2.2242605863201025E-9" />
+      <entry key="H1" value="1.1577433458504764E-4" />
+      <entry key="H2" value="0.027948900615914953" />
+      <entry key="H4" value="0.440681110791209" />
+      <entry key="D1" value="6.314676427393345" />
+      <entry key="W1" value="16.35306852866537" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="4.8490844503761504E-4" />
+      <entry key="MS500" value="0.2173361400225054" />
+      <entry key="S2" value="0.682783452654219" />
+      <entry key="S5" value="0.858446422245061" />
+      <entry key="S10" value="0.9265238379259656" />
+      <entry key="S30" value="0.9748823308978856" />
+      <entry key="S60" value="0.9873628696929818" />
+      <entry key="M2" value="0.9965106898152873" />
+      <entry key="M5" value="1.4200885494152278" />
+      <entry key="M10" value="5.467953006429927" />
+      <entry key="M15" value="12.319116969161502" />
+      <entry key="M30" value="31.733755103705054" />
+      <entry key="H1" value="52.90092659145426" />
+      <entry key="H2" value="69.27903515977589" />
+      <entry key="H4" value="84.6427862269993" />
+      <entry key="D1" value="207.6252868539766" />
+      <entry key="W1" value="572.0875613012349" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3M3HldaI2FUfZwQ3HjepFkX8Eu5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbstractActivity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AddWholeNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnimalActivity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArithmeticExceptionActivity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculatorClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomExceptionActivityTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DateActivity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionSequenceActivity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InheritanceActivity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListActivity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapActivity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumToWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumToWordsUsingMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperatorActivity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintNumWithWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetActivity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatchFinallyActivity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VariableAssignmentActivity.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PersonTest.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Final__Activity&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/jekat/Documents/Bootcamp/Java/FirstProject/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jekat/Documents/Bootcamp/Java/FirstProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/jekat/Documents/Bootcamp/FirstProject/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="module9.activity" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.200" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6518afd-e029-449d-8b70-8e59491894d2" name="Changes" comment="" />
+      <created>1794572486713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794572486713</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
